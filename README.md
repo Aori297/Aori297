@@ -19,4 +19,4 @@ Oh, Hey there. You somehow ended up on my profile while scrolling through random
 - Maybe learn **AI in games** and **procedural generation**… or maybe just stick to the basics and call it a day.
 - Collaborate with someone who knows what they're doing. (Hey, a guy can dream.)
 
-Feel free to check out my repos, critique them, or send me a message just to remind me that I still haven’t finished that game.
+Remind me that I still haven’t finished that game.
