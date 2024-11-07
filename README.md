@@ -4,7 +4,7 @@ You’ve somehow ended up on my profile while browsing through random devs. Luck
 ---
 
 ## What I *Pretend* to Work On:
-- **Game Development**: Currently making a personal project—a 2D platformer where you help Kira, the world’s most incompetent keykeeper, retrace her steps. (Spoiler: She still doesn’t have the key.)
+- **Game Development**: Currently making a personal project a 2D platformer where you help Kira, the world’s most incompetent keykeeper, retrace her steps. (Spoiler: She still doesn’t have the key.)
 - **Game Design**: Trying to craft a masterpiece, but it’s mostly just me fixing one bug while creating five more.
 
 ---
